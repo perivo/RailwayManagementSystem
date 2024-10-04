@@ -1,6 +1,6 @@
 Here's a detailed README file template for your Railway Management System project. You can modify it as needed:
 
-```markdown
+
 # Railway Management System
 
 ## Overview
