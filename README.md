@@ -68,7 +68,7 @@ The Railway Management System is a web application designed to manage train oper
 - **Reports:** Generate various reports based on train and route data.
 - **Logout:** Use the logout option in the navbar.
 
-  ##screenshots
+## screenshots
   ![![Screenshot 2024-10-04 214941](https://github.com/user-attachments/assets/86a80d37-9c55-4b64-91b3-da4e1c4a10ae)
 ](index)
   ![![Screenshot 2024-10-04 214915](https://github.com/user-attachments/assets/1ec2fce4-6580-4461-bf2d-5d9a1e53ea1d)
