@@ -1,0 +1,108 @@
+/* General styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: #f8f9fa;
+    color: #343a40;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar styling */
+.navbar {
+    background-color: #007bff;
+    color: white;
+}
+
+.navbar a {
+    color: white;
+}
+
+/* Footer styling */
+footer {
+    background-color: #343a40;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+/* Buttons */
+.btn-primary {
+    background-color: #007bff;
+    border-color: #007bff;
+}
+
+.btn-primary:hover {
+    background-color: #0056b3;
+    border-color: #0056b3;
+}
+
+/* Form input styling */
+input[type="text"], input[type="email"], input[type="password"], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+/* Table styling */
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid #dee2e6;
+}
+
+th, td {
+    padding: 12px;
+    text-align: left;
+}
+
+/* Train status page */
+.train-status {
+    padding: 20px;
+    background-color: #e9ecef;
+    border-radius: 5px;
+    margin: 20px 0;
+}
+
+.train-status h3 {
+    margin-top: 0;
+}
+
+/* Media Queries */
+@media screen and (max-width: 768px) {
+    .navbar {
+        text-align: center;
+    }
+
+    .train-status {
+        padding: 10px;
+    }
+}
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 250px;
+    height: 100%;
+    background-color: #057df6;
+    padding-top: 20px;
+}
+
+.custom-navbar {
+    background-color: #343a40; /* Dark gray background */
+    color: white; /* White text */
+}
+
+.custom-navbar .nav-link {
+    color: white; /* White link color */
+}
+
+.custom-navbar .nav-link:hover {
+    color: #007bff; /* Blue color on hover */
+}
